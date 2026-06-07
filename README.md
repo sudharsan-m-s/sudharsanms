@@ -16,7 +16,5 @@
 - Multi-Agent Workflow System (Coming Soon)
 
 ## Connect
-- LinkedIn: [www.linkedin.com/in/
-sudharsanms2007
-]
+- LinkedIn: [www.linkedin.com/in/sudharsanms2007]
 - Email: [sudharzz3049@gmail.com]
